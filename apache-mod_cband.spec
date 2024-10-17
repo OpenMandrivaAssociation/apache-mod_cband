@@ -9,7 +9,7 @@ Version:	0.9.7.5
 Release:	%mkrel 12
 Group:		System/Servers
 License:	GPL
-URL:		http://cband.linux.pl/
+URL:		https://cband.linux.pl/
 Source0:	http://cband.linux.pl/download/mod-cband-%{version}.tar.bz2
 Source1:	%{mod_conf}.bz2
 Requires(pre): rpm-helper
